@@ -1,3 +1,1 @@
-<div align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64fd38605ce9f4ca58aba05e?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysunanda&size_weight=0.5&count_weight=0.5&exclude_repo=roysunanda,git-test)
