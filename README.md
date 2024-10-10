@@ -20,6 +20,9 @@
 <br/>
 
 <!-- ################################################# Stats and Activity ################ -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <h3 align="center">🔥 Streak Stats</h3>
   <p align="center">
@@ -30,23 +33,6 @@
   
   </p>
   
-  
   <br/>
 
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#722](https://github.com/DenverCoder1/github-readme-streak-stats/pull/722) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#340](https://github.com/DenverCoder1/readme-typing-svg/pull/340) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❌ Closed PR [#127](https://github.com/DenverCoder1/table2ascii/pull/127) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-4. 🗣 Commented on [#127](https://github.com/DenverCoder1/table2ascii/issues/127) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-5. 🎉 Merged PR [#126](https://github.com/DenverCoder1/table2ascii/pull/126) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
-<!--END_SECTION:activity-->
-
+  <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=roysunanda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
