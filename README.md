@@ -28,11 +28,13 @@
   <p align="center">
     <a href="#"><img src="https://streak-stats.demolab.com?user=roysunanda&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" /></a>
     <a href="#"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysunanda&size_weight=0.5&count_weight=0.5&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="196px"/></a>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  > [!NOTE]
+  > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   </p>
   
+  <br/>
   <br/>
 
   <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=roysunanda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
