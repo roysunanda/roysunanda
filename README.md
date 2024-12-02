@@ -18,7 +18,7 @@
 </p>
 
 <div align="center"> 
-<a href="https://visitcount.itsvg.in">
+<a href="https://github.com/roysunanda">
   <img src="https://visitcount.itsvg.in/api?id=roysunanda&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
 </div>
