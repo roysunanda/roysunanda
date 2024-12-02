@@ -17,6 +17,12 @@
   <a target="_blank" href="https://linktr.ee/roysunanda"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
+<div align="center"> 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=roysunanda&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
+</div>
+
 <br/>
 
 <!-- ################################################# Stats and Activity ################ -->
