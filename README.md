@@ -23,14 +23,31 @@
 </a>
 </div>
 
-<br/>
-
 <!-- ################################################# Stats and Activity ################ -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<h3 align="center">🔥 Streak Stats</h3>
+## 🛠️ Skills
+
+| | |
+|----------|--------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)&nbsp; |
+| **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp; ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express)&nbsp; |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp; ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Deployment & Hosting** | ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)&nbsp; ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp; ![GithubPages](https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white) |
+| **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp; ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp; ![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)&nbsp; ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+| **Browsers** | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) |
+| **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-51786e?style=for-the-badge&logo=openai&logoColor=white)&nbsp; ![Claude](https://img.shields.io/badge/Anthropic's%20Claude-BBEEF1?style=for-the-badge&logo=anthropic&logoColor=black) |
+| | |
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+## 📊 Github Stats
   <p align="center">
     <a href="#"><img src="https://streak-stats.demolab.com?user=roysunanda&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" /></a>
     <a href="#"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysunanda&size_weight=0.5&count_weight=0.5&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="196px"/></a>
@@ -40,7 +57,9 @@
   
   </p>
   
-  <br/>
-  <br/>
+  <br>
+  <br>
 
   <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=roysunanda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+  <br>
