@@ -43,9 +43,11 @@
 | **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-51786e?style=for-the-badge&logo=openai&logoColor=white)&nbsp; ![Claude](https://img.shields.io/badge/Anthropic's%20Claude-BBEEF1?style=for-the-badge&logo=anthropic&logoColor=black) |
 | | |
 
+<br>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<br>
 
 ## 📊 Github Stats
   <p align="center">
