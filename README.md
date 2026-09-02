@@ -48,7 +48,7 @@
 <br>
 
 ## 📊 Github Stats
-  <p>
+  <p align="center">
     <a href="#"><img src="https://streak-stats.demolab.com?user=roysunanda&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" /></a>
   
   </p>
