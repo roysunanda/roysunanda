@@ -54,8 +54,5 @@
 ## 📊 Github Stats
   <p align="center">
     <a href="#"><img src="https://streak-stats.demolab.com?user=roysunanda&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" /></a>
-
-  > [!NOTE]
-  > Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   </p>
