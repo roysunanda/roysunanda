@@ -50,7 +50,7 @@
 ## 📊 Github Stats
   <div align="center">
     
-  <img src="https://streak-stats.demolab.com?user=roysunanda&theme=carbonfox" alt="GitHub Streak" />
   <img src="https://ghstats.dev/api/langs?username=roysunanda&theme=rosepine&layout=grid" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=roysunanda&theme=carbonfox" alt="GitHub Streak" />
 
   </div>
