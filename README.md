@@ -12,7 +12,7 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/roysunanda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &#8287;&#8287;
-  <a target="_blank" href="https://x.com/roysunanda23"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a target="_blank" href="https://x.com/codewithsandy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   &#8287;&#8287;
   <a target="_blank" href="https://linktr.ee/roysunanda"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
@@ -48,7 +48,9 @@
 <br>
 
 ## 📊 Github Stats
-  <p align="center">
-    <a href="#"><img src="https://streak-stats.demolab.com?user=roysunanda&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" /></a>
-  
-  </p>
+  <div align="center">
+    
+  <img src="https://streak-stats.demolab.com?user=roysunanda&theme=carbonfox" alt="GitHub Streak" />
+  <img src="https://ghstats.dev/api/langs?username=roysunanda&theme=rosepine&layout=grid" alt="Top Languages" />
+
+  </div>
