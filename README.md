@@ -52,6 +52,6 @@
     
   <img src="https://streak-stats.demolab.com?user=roysunanda&theme=javascript" alt="GitHub Streak" />
   <br>
-  <img src="https://ghstats.dev/api/langs?username=roysunanda&theme=rosepine&layout=vertical_list" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=roysunanda&theme=midnight_sakura&layout=vertical_list" alt="Top Languages" />
 
   </div>
