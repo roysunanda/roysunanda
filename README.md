@@ -50,8 +50,8 @@
 ## 📊 Github Stats
   <div align="center">
     
-  <img src="https://ghstats.dev/api/langs?username=roysunanda&theme=rosepine&layout=donut_vertical" alt="Top Languages" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=roysunanda&theme=javascript" alt="GitHub Streak" />
+  <br>
+  <img src="https://ghstats.dev/api/langs?username=roysunanda&theme=rosepine&layout=vertical_list" alt="Top Languages" />
 
   </div>
